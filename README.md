@@ -1,5 +1,10 @@
 # 🚀 Lost & Found Smart Platform MVP - PRODUCTION READY
 
+[![Deploy to GitHub Pages](https://github.com/pbentle2006/Lost-Found-Demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/pbentle2006/Lost-Found-Demo/actions/workflows/deploy.yml)
+
+## 🌟 **Live Demo**
+**🚀 [View Live Demo](https://pbentle2006.github.io/Lost-Found-Demo/)**
+
 A comprehensive AI-powered lost and found system designed for the UAE market, featuring conversational AI intake, smart matching algorithms, and multi-stakeholder workflows.
 
 ## 🎯 Project Status: ✅ DEMO COMPLETE & DEPLOYMENT READY
@@ -64,7 +69,12 @@ npm run preview
 
 ## 🌐 Deployment Options
 
-### **Recommended: Netlify**
+### **✅ Current: GitHub Pages (Live)**
+- **Live Demo:** https://pbentle2006.github.io/Lost-Found-Demo/
+- **Automated Deployment:** GitHub Actions on push to main branch
+- **Build Status:** [![Deploy to GitHub Pages](https://github.com/pbentle2006/Lost-Found-Demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/pbentle2006/Lost-Found-Demo/actions/workflows/deploy.yml)
+
+### **Alternative: Netlify**
 ```bash
 # Option 1: Drag & Drop (Fastest)
 # Go to netlify.com and drag the 'dist' folder
@@ -189,11 +199,11 @@ This demo proves the platform's alignment with UAE's digital transformation:
 
 ## 📞 Next Steps
 
-1. **Deploy Demo** - Use Netlify for professional presentation URL
-2. **Stakeholder Review** - Present to government and partner stakeholders
+1. ✅ **Deploy Demo** - Successfully deployed to GitHub Pages with automated CI/CD
+2. **Stakeholder Review** - Present live demo to government and partner stakeholders
 3. **Gather Feedback** - Collect requirements for Phase 2 enhancements
 4. **Scale Planning** - Prepare for full MVP development and deployment
 
-**Status: 🎯 MISSION ACCOMPLISHED - DEMO READY FOR PRODUCTION**
+**Status: 🎯 MISSION ACCOMPLISHED - LIVE DEMO DEPLOYED & READY FOR PRESENTATIONS**
 
 *Built with ❤️ for the UAE's digital future - Showcasing the transformative power of agentic AI in government services*
